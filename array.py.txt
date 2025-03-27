@@ -15,4 +15,4 @@ element_type = array.dtype
 
 print("Type of elements in array:", element_type)
 
-
+# Array is a homogeneous collectioin of data items
