@@ -16,5 +16,5 @@ element_type = array.dtype
 print("Type of elements in array:", element_type)
 
 # Array is a homogeneous collectioin of data items
-//This is the first time  am tryinh 
+//This is the first time  am trying, hope this works at home
 Now I am going to pull this file to my local folder
